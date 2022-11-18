@@ -32,4 +32,5 @@ _Параграф 3_
 + Третий пункт.
 
 ```c#
-   MyClass myClass = new()...
+   MyClass myClass = new();
+```
