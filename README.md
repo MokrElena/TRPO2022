@@ -46,3 +46,7 @@ _Параграф 3_
 Это ссылка на [сайт](https://rsu.edu.ru "Сайт университета")
 
 Это ссылка на  почту <mokrousova_yelena@Icloud.com>
+
+### Картинка
+
+[MarkDown] (https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png "Изображение")
